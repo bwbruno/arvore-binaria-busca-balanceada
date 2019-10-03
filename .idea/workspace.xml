@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c56b5d8-b3e5-4594-bcc4-37e7fb926fc5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../heap-turma2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/waldson/aula11/ArvoreBinariaBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/waldson/aula11/ArvoreBinariaBusca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/waldson/aula11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/waldson/aula11/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/waldson/aula11/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/waldson/aula11/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arvore-binaria/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../arvore-binaria/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heap-turma2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../heap-turma2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../heap-turma2/src/br/com/waldson/aula11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../heap-turma2/src/br/com/waldson/aula11/Main.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1RZICg4qUTkXQmy7NR6rR7yiaze" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../arvore" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="br.com.waldson.aula11" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.waldson.aula11.Main" />
+      <module name="arvore-binaria-busca2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArvoreBinariaBuscaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="arvore-binaria-busca2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.waldson.aula11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.waldson.aula11" />
+      <option name="MAIN_CLASS_NAME" value="br.com.waldson.aula11.ArvoreBinariaBuscaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArvoreBinariaBuscaTest.deveEncontrarElemento" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="arvore-binaria-busca2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.waldson.aula11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.waldson.aula11" />
+      <option name="MAIN_CLASS_NAME" value="br.com.waldson.aula11.ArvoreBinariaBuscaTest" />
+      <option name="METHOD_NAME" value="deveEncontrarElemento" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.ArvoreBinariaBuscaTest.deveEncontrarElemento" />
+      <item itemvalue="JUnit.ArvoreBinariaBuscaTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ArvoreBinariaBuscaTest.deveEncontrarElemento" />
+        <item itemvalue="JUnit.ArvoreBinariaBuscaTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c56b5d8-b3e5-4594-bcc4-37e7fb926fc5" name="Default Changelist" comment="" />
+      <created>1567729864634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567729864634</updated>
+      <workItem from="1567729866103" duration="1851000" />
+      <workItem from="1568325799341" duration="5666000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ArvoreBinariaBuscaTest_deveEncontrarElemento - 2019.09.05 at 21h 57m 04s.xml">
+      <configuration name="ArvoreBinariaBuscaTest.deveEncontrarElemento" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArvoreBinariaBuscaTest - 2019.09.05 at 21h 57m 14s.xml">
+      <configuration name="ArvoreBinariaBuscaTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7517000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
