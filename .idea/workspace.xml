@@ -4,7 +4,11 @@
     <list default="true" id="2c56b5d8-b3e5-4594-bcc4-37e7fb926fc5" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../heap-turma2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arvore-binaria-busca2/br/com/waldson/aula11/ArvoreBinariaBuscaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arvore-binaria-busca2/br/com/waldson/aula11/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/arvore-binaria-busca2/br/com/waldson/aula11/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/arvore-binaria-busca2/br/com/waldson/aula11/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/arvore-binaria-busca2/br/com/waldson/aula11/Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/waldson/aula11/ArvoreBinariaBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/waldson/aula11/ArvoreBinariaBusca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/waldson/aula11/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/waldson/aula11/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/waldson/aula11/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/waldson/aula11/Node.java" afterDir="false" />
@@ -30,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1RZICg4qUTkXQmy7NR6rR7yiaze" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />

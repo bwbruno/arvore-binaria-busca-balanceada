@@ -32,13 +32,34 @@ public class Node {
     }
 
     public boolean ehBalanceada() {
-        int bal = getHeightRight() - getHeightLeft();
 
-        if(bal < -1 || bal > 1)
-            return false;
-
-        return true;
+        return ehBalanceada(this, true);
     }
+
+    public boolean ehBalanceada(Node node, boolean bal) {
+
+        int valorBal = node.getHeightRight() - node.getHeightLeft();
+
+        boolean left = false, right = false;
+
+        if (valorBal == -1 || valorBal == 0 || valorBal == 1) {
+            if (node.getLeft() != null && bal == true)
+                return ehBalanceada(node.getLeft(), true);
+
+            if (node.getRight() != null && bal == true)
+                return ehBalanceada(node.getRight(), true);
+
+            if (node.getLeft() == null && bal == true)
+                left = true;
+
+            if (node.getRight() == null && bal == true)
+                right = true;
+        }
+
+        return left && right;
+}
+
+
 
     public Node getLeft() {
         return left;

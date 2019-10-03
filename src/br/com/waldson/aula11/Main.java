@@ -7,12 +7,16 @@ public class Main {
 
     public static void main(String[] args) {
         ArvoreBinariaBusca arvore = new ArvoreBinariaBusca();
-
-        for (int i = 0; i < 10; i++) {
-            arvore.insert(
-              new Node(i)
-            );
-        }
+        arvore.insert(10);
+        arvore.insert(8);
+        arvore.insert(7);
+        arvore.insert(6);
+        arvore.insert(5);
+        arvore.insert(9);
+        arvore.insert(13);
+        arvore.insert(14);
+        arvore.insert(15);
+        arvore.insert(16);
         arvore.print();
         System.out.println(arvore.ehBalanceada());
 
